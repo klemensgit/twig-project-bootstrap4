@@ -53,4 +53,9 @@
         return $subTplNews;
     }
 
+    // uporablja se samo za unite teste kot primer testiranja funkcij izven classa
+    function getTest(){
+        return 'Opel';
+    }
+
 ?>
